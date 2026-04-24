@@ -1,0 +1,14 @@
+{
+  "hangry": {
+    "sounds": ["shadowblade:custom/hangry"]
+  },
+  "siren2": {
+    "sounds": ["shadowblade:custom/siren2"]
+  },
+  "siren1": {
+    "sounds": ["shadowblade:custom/siren1"]
+  },
+  "booms1": {
+    "sounds": ["shadowblade:custom/booms1"]
+  }
+}
