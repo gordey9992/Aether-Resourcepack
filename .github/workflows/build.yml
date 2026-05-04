@@ -23,7 +23,7 @@ jobs:
         files: ShadowBlade-resourcepack.zip
         tag_name: "v1.0.0"
         name: "ShadowBlade Resourcepack v1.0.0"
-        body: "Автоматическая сборка ресурспака"
+        body: "Наш ресурспак! Бананчики :3"
         draft: false
         prerelease: false
       env:
