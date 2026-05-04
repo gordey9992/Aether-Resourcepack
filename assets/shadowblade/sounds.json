@@ -1,14 +1,18 @@
 {
   "hangry": {
-    "sounds": ["shadowblade:custom/hangry"]
+    "sounds": ["shadowblade:custom/hangry"],
+    "subtitle": "Бля че?"
   },
-  "siren2": {
-    "sounds": ["shadowblade:custom/siren2"]
+  "coffindance": {
+    "sounds": ["shadowblade:custom/coffindance"],
+    "subtitle": "Мемная мелодия из гроба"
   },
   "siren1": {
-    "sounds": ["shadowblade:custom/siren1"]
+    "sounds": ["shadowblade:custom/siren1"],
+    "subtitle": "Сирена"
   },
   "booms1": {
-    "sounds": ["shadowblade:custom/booms1"]
+    "sounds": ["shadowblade:custom/booms1"],
+    "subtitle": "Много взрывов"
   }
 }
