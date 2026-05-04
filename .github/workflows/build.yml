@@ -17,14 +17,15 @@ jobs:
       run: |
         zip -r ShadowBlade-resourcepack.zip . -x ".git/*" ".github/*" ".*" "*.md"
 
-    - name: Upload to Release
+    - name: Upload to Release (always to 'latest')
       uses: softprops/action-gh-release@v2
       with:
         files: ShadowBlade-resourcepack.zip
-        tag_name: "v1.0.0"
-        name: "ShadowBlade Resourcepack v1.0.0"
-        body: "Наш ресурспак! Бананчики :3"
+        tag_name: "latest"
+        name: "ShadowBlade Resourcepack"
+        body: "Всегда свежий ресурспак"
         draft: false
-        prerelease: false
+        prerelease: true
+        make_latest: "legacy"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
