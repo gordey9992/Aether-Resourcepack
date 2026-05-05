@@ -23,9 +23,9 @@ jobs:
         files: ShadowBlade-resourcepack.zip
         tag_name: "latest"
         name: "ShadowBlade Resourcepack"
-        body: "Всегда свежий ресурспак"
+        body: "Наш ресурспак! Бананчики :3"
         draft: false
-        prerelease: true
+        prerelease: false
         make_latest: "legacy"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
