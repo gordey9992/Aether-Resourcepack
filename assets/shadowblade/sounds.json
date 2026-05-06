@@ -1,27 +1,7 @@
 {
-  "hangry": {
-    "sounds": ["shadowblade:custom/hangry"],
-    "subtitle": "Бля че?"
-  },
-  "coffindance": {
-    "sounds": ["shadowblade:custom/coffindance"],
-    "subtitle": "Astronomia (Coffin Dance)"
-  },
-  "siren1": {
-    "sounds": ["shadowblade:custom/siren1"],
-    "subtitle": "Сирена"
-  },
-  "booms1": {
-    "sounds": ["shadowblade:custom/booms1"],
-    "subtitle": "Много взрывов"
-  },
   "av_presto": {
     "sounds": ["shadowblade:custom/av-presto"],
-    "subtitle": "Antonio Vivaldi — Le quattro stagioni: L'estate, Presto (Summer)"
-  },
-  "avicii_wmu": {
-    "sounds": ["shadowblade:custom/avicii-wmu"],
-    "subtitle": "Avicii — Without You"
+    "subtitle": "Antonio Vivaldi — L'estate, Presto"
   },
   "aw_faded": {
     "sounds": ["shadowblade:custom/aw-faded"],
@@ -29,26 +9,18 @@
   },
   "bethoven_lunnaya": {
     "sounds": ["shadowblade:custom/bethoven-lunnaya_sonata"],
-    "subtitle": "Ludwig van Beethoven — Piano Sonata No. 14 (Moonlight Sonata)"
+    "subtitle": "Ludwig van Beethoven — Moonlight Sonata"
+  },
+  "coffindance": {
+    "sounds": ["shadowblade:custom/coffindance"],
+    "subtitle": "Astronomia (Coffin Dance)"
   },
   "dabro_yunost": {
     "sounds": ["shadowblade:custom/dabro-yunost"],
     "subtitle": "Dabro — Юность"
   },
-  "gotye_stiutk": {
-    "sounds": ["shadowblade:custom/gotye-stiutk"],
-    "subtitle": "Gotye — Somebody That I Used To Know (feat. Kimbra)"
-  },
   "miyagi_fireman": {
     "sounds": ["shadowblade:custom/miyagi-fireman"],
     "subtitle": "Miyagi & Эндшпиль — Fireman"
-  },
-  "tobyfox_final": {
-    "sounds": ["shadowblade:custom/tobyfox-final"],
-    "subtitle": "Toby Fox — Finale (Undertale)"
-  },
-  "tonesandi_dancemonkey": {
-    "sounds": ["shadowblade:custom/tonesandi-dancemonkey"],
-    "subtitle": "Tones and I — Dance Monkey"
   }
 }
