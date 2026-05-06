@@ -23,7 +23,7 @@ jobs:
         files: ShadowBlade-resourcepack.zip
         tag_name: "latest"
         name: "ShadowBlade Resourcepack"
-        body: "Наш ресурспак! Бананчики :3"
+        body: "**Наш ресурспак! Бананчики :3**"
         draft: false
         prerelease: false
         make_latest: "legacy"
