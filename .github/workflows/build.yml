@@ -38,14 +38,7 @@ jobs:
         tag_name: "auto"
         name: "Aether Resourcepack - ${{ steps.date.outputs.datetime }}"
         body: |
-          **Автоматическая сборка ресурспака**
-          
-          🕐 Время сборки: ${{ steps.date.outputs.datetime }}
-          
-          📦 **Что внутри:**
-          - Полный ресурспак Aether
-          
-          🔄 Этот релиз автоматически обновляется при каждом пуше в main
+          **Наш ресурспак, бананчики!**
         draft: false
         prerelease: false
         make_latest: "legacy"
