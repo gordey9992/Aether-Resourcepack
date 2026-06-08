@@ -2,5 +2,13 @@
   "simba": {
     "sounds": ["aether:simba"],
     "subtitle": "Simbachka — Симба Я Люблю Тебя"
-  }
+  },
+  "lunnaya_sonata": {
+    "sounds": ["aether:lunnaya_sonata"],
+    "subtitle": "Ludwig van Beethoven — Sonata quasi una fantasia"
+  },
+    "coffin_dance": {
+    "sounds": ["aether:coffin_dance"],
+    "subtitle": "Tony Igy — Astronomi (Coffin Dance)"
+  },
 }
