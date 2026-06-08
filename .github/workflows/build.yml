@@ -15,14 +15,14 @@ jobs:
 
     - name: Create resourcepack zip
       run: |
-        zip -r ShadowBlade-resourcepack.zip . -x ".git/*" ".github/*" ".*" "*.md"
+        zip -r Aether-resourcepack.zip . -x ".git/*" ".github/*" ".*" "*.md"
 
     - name: Upload to Release (always to 'latest')
       uses: softprops/action-gh-release@v2
       with:
         files: ShadowBlade-resourcepack.zip
         tag_name: "latest"
-        name: "ShadowBlade Resourcepack"
+        name: "Aether Resourcepack"
         body: "**Наш ресурспак! Бананчики :3**"
         draft: false
         prerelease: false
