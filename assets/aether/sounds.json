@@ -1,26 +1,6 @@
 {
-  "av_presto": {
-    "sounds": ["aether:custom/av-presto"],
-    "subtitle": "Antonio Vivaldi — L'estate, Presto"
-  },
-  "aw_faded": {
-    "sounds": ["aether:custom/aw-faded"],
-    "subtitle": "Alan Walker — Faded"
-  },
-  "bethoven_lunnaya": {
-    "sounds": ["aether:custom/bethoven-lunnaya_sonata"],
-    "subtitle": "Ludwig van Beethoven — Moonlight Sonata"
-  },
-  "coffindance": {
-    "sounds": ["aether:custom/coffindance"],
-    "subtitle": "Astronomia (Coffin Dance)"
-  },
-  "dabro_yunost": {
-    "sounds": ["aether:custom/dabro-yunost"],
-    "subtitle": "Dabro — Юность"
-  },
-  "miyagi_fireman": {
-    "sounds": ["aether:custom/miyagi-fireman"],
-    "subtitle": "Miyagi & Эндшпиль — Fireman"
+  "simba": {
+    "sounds": ["aether:simba"],
+    "subtitle": "Simbachka — Симба Я Люблю Тебя"
   }
 }
